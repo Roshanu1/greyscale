@@ -1,17 +1,15 @@
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   html {
     font-size: 12px;
   }
-}
+}*/
 
 nav{
-	background-color: #3b5998;
-	margin: 0%;
-	padding: 0%; 
+	background-color: #3b5998; 
 	width: 100vw;
  	position: relative;
  	margin-left: -50vw;
- 	left: 50%;
+ 	left: 49.1%;
  	margin-top: -0.8vw;
 }
 .flex {
@@ -92,7 +90,7 @@ footer{
    background-color: black;
    color: white;
    text-align: center;
-   	height: calc(3*12px);
+   	height: calc(4*12px);
 }
 
 section .iviewer{
